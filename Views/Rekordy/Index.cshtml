@@ -1,0 +1,46 @@
+@{
+    List<List<object>> rekordy = ViewData["Rekordy"] as List<List<object>>;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rekordowe noty zawodników</title>
+</head>
+<h1>Rekordowe noty zawodników</h1>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                Miejsce
+            </th>
+            <th>
+                Imię
+            </th>
+            <th>
+                Nazwisko
+            </th>
+            <th>
+                Narodowość
+            </th>
+            <th>
+                Najlepszy wynik
+            </th>
+            <th>
+                Miejscowość
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 1; i < rekordy.Count; i++)
+        {
+            <tr>
+                @foreach (var wartosc in rekordy[i])
+                {
+                    <td>@wartosc</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+</html>

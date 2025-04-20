@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcSkoki
+build_property.RootNamespace = MvcSkoki
+build_property.ProjectDir = C:\Users\Gosia\Desktop\projektv2\MvcSkoki\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Gosia\Desktop\projektv2\MvcSkoki
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/IO/Logowanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSU9cTG9nb3dhbmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Konkurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29ua3Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Konkurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29ua3Vyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Konkurs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29ua3Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Konkurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29ua3Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Konkurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29ua3Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Konkurs/Ranking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29ua3Vyc1xSYW5raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Punktacja/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVua3RhY2phXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Punktacja/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVua3RhY2phXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Punktacja/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVua3RhY2phXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Punktacja/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVua3RhY2phXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Punktacja/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVua3RhY2phXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Rekordy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVrb3JkeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Sezon/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V6b25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Sezon/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V6b25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Sezon/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V6b25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Sezon/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V6b25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Sezon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V6b25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skoczek/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3pla1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skoczek/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3pla1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skoczek/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3pla1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skoczek/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3pla1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skoczek/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3pla1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skocznia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3puaWFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skocznia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3puaWFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skocznia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3puaWFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skocznia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3puaWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Skocznia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tvY3puaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Gosia/Desktop/projektv2/MvcSkoki/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k9vvqsonyx

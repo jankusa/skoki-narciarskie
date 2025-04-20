@@ -1,0 +1,43 @@
+@{
+    List<List<object>> punktacje = ViewData["Punktacje"] as List<List<object>>;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ranking zawodników</title>
+</head>
+<h1>@Model.Skocznia.Miejscowosc, @Model.Skocznia.Panstwo - @Model.Data</h1>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                Miejsce
+            </th>
+            <th>
+                Imię
+            </th>
+            <th>
+                Nazwisko
+            </th>
+            <th>
+                Narodowość
+            </th>
+            <th>
+                Wynik
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 1; i < punktacje.Count; i++)
+        {
+            <tr>
+                @foreach (var wartosc in punktacje[i])
+                {
+                    <td>@wartosc</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+</html>

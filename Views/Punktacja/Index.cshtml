@@ -1,0 +1,47 @@
+@model IEnumerable<MvcSkoki.Models.Punktacja>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Wynik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Skoczek)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Konkurs)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Wynik)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Skoczek.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Konkurs.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PunktacjaID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PunktacjaID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PunktacjaID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
